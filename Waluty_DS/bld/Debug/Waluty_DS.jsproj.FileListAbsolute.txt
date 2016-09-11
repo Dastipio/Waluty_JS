@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bin\Debug\ReverseMap\resources.pri
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bin\Debug\AppxManifest.xml
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bin\Debug\Waluty_DS.build.appxrecipe
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\ResourceHandlingTask.state
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\priconfig.xml
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\priconfig.xml.intermediate
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\layout.resfiles
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\layout.resfiles.intermediate
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\resources.resfiles
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\resources.resfiles.intermediate
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\pri.resfiles
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\pri.resfiles.intermediate
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\qualifiers.txt
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Daniel\Desktop\Waluty_DS\Waluty_DS\bld\Debug\ProjectArchitectures.txt
